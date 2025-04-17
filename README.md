@@ -28,6 +28,7 @@ Estou cursando o Técnico de Desenvolvimento de Sistemas no SENAI, onde tenho ap
 - Programação back-end.
 - Entre outros ...
   
+  
 
 - 🎯 **Expectativas para o Futuro:**
 
